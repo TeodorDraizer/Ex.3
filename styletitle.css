@@ -1,0 +1,12 @@
+header,nav,aside {
+	color:#FFFFFF;	
+	background-color:#FD739C;
+	font-family: Arial, Helvetica;
+	padding-bottom:37px;
+}
+h2,h1 {
+	font-family: Arial, Helvetica;
+	 }
+body { font-size:22px;
+	line-height:34px;
+	 }
